@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Non-suicidal self-injury in Chinese population: a scoping review of prevalence, method, risk factors and preventive interventions"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+#permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+#date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(23)00112-8/fulltext'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
