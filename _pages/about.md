@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visting my website! I am a first-year Ph.D. student in Sociology ad Northeastern University.
+Thanks for visting my website! I am a first-year Ph.D. student in Sociology at Northeastern University.
 
 Jiaao's personal website
 ======
