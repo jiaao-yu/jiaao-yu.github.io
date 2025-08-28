@@ -21,7 +21,6 @@ Work experience
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-
   
 Skills
 ======
@@ -39,9 +38,6 @@ Publications
   {% endfor %}</ul>
   
   
-Teaching
-======
- 
   
 Service and leadership
 ======
