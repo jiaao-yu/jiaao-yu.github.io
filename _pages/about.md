@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Welcome to Jiaao's website!"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Thanks for visting my website! I am a first-year Ph.D. student in Sociology at Northeastern University.
+I am a second-year Ph.D. student in Sociology at Northeastern University. My research interests primarily focus on how social relationships influence youth behavior and mental health. I aim to use computational methods, such as social network analysis, to examine these dynamics.
 
 Jiaao's personal website
 ======
-Take a look at the links above to learn more about me!
+
