@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-
   <!-- Inline viewer -->
 <embed src="{{ '/files/Jiaao_Yu_CV.pdf' | relative_url }}"
        type="application/pdf" width="100%" height="900px" />
@@ -19,10 +17,5 @@ redirect_from:
   📄 <a href="{{ '/files/Jiaao_Yu_CV.pdf' | relative_url }}" download>Download CV (PDF)</a>
   · <a href="{{ '/files/Jiaao_Yu_CV.pdf' | relative_url }}">Open in new tab</a>
 </p>
-
-<!-- Fallback for browsers that block inline PDFs -->
-<object data="{{ '/files/Jiaao_Yu_CV.pdf' | relative_url }}"
-        type="application/pdf" width="100%" height="900">
-
 ======
 
