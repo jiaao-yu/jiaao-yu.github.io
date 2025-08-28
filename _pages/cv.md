@@ -6,14 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<object data="{{ '/files/Jiaao_Yu_CV.pdf#zoom=100' | relative_url }}" 
-        type="application/pdf" 
-        width="100%" 
-        height="1200px">
-  <p>Your browser does not support inline PDFs. 
-     <a href="{{ '/files/Jiaao_Yu_CV.pdf' | relative_url }}">Download the PDF</a>.</p>
-</object>
+<!-- Inline viewer -->
+<embed src="{{ '/files/Jiaao_Yu_CV.pdf' | relative_url }}"
+       type="application/pdf" width="100%" height="900px" />
 
-<p style="margin-top: 1rem;">
+<p>
   📄 <a href="{{ '/files/Jiaao_Yu_CV.pdf' | relative_url }}" download>Download CV (PDF)</a>
 </p>
+
