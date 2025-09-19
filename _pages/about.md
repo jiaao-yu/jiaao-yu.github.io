@@ -12,6 +12,7 @@ I (Chinese: 俞嘉翱) am a second-year Ph.D. student in [Sociology](https://css
 Academic Interests
 ======
 - Peer Influence
+- Aggression and Victimization
 - Social Network Analysis
 - Computational Social Science
   
