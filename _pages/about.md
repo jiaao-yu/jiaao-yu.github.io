@@ -17,6 +17,6 @@ Academic Interests
   
 News
 ======
-- **05/25**   New paper published: [How Do Friends Impact Youth Non-Suicidal Self-Injury?](https://cssh.northeastern.edu/how-do-friends-impact-youth-non-suicidal-self-injury-northeastern-researcher-explains/)
+- **05/25**   New paper published: [Understanding Social Influence of Non-Suicidal Self-Injury: The Interplay of Peer Networks and Adolescent Behavior](https://link.springer.com/article/10.1007/s10964-025-02178-9)
 
 
