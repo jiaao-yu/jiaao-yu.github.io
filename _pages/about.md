@@ -15,6 +15,7 @@ Academic Interests
 - Aggression and Victimization
 - Social Network Analysis
 - Computational Social Science
+- Social Contagion
   
 News
 ======
