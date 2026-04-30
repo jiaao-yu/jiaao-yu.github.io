@@ -235,9 +235,14 @@ body:hover .visually-hidden button {
 
   .fa-google-plus,
   .fa-google-plus-square {
-    color: $google-plus-color;
+    color: #4285f4;
   }
-
+   
+  .fa-researchgate,
+  .fa-researchgate-square {
+    color: #00ccbb; // ResearchGate teal
+  }
+   
   .fa-instagram {
     color: $instagram-color;
   }
